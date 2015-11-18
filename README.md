@@ -1,2 +1,2 @@
-# jquery-image-zoomer
-Exercise files for the course ssdZoom : Image Zoomer with jQuery
+# ssdZoom : Image Zoomer with jQuery
+Exercise files for the course **ssdZoom : Image Zoomer with jQuery**
